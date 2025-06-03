@@ -15,8 +15,11 @@ AI 기반 도서 추천과 다양한 독서 활동 기능을 제공하는 플랫
 
 |    이름   |           역할          |
 | :-----: | :-------------------: |
-| **양다인**(팀장) |  백엔드, 프론트엔드, UI, 서비스 기획/구현, tts/AI <br> https://github.com/sheepdain/chaekly_project|
-| **김희주** | 백엔드, 프론트엔드, UX, 데이터 설계/AI 추천 <br> https://github.com/huizoo/chaekly-ai-book-community|
+| **양다인**(팀장) |  백엔드, 프론트엔드, UI, 서비스 기획/구현, tts/AI |
+| **김희주** | 백엔드, 프론트엔드, UX, 데이터 설계/AI 추천 |
+
+양다인 ➜ https://github.com/sheepdain/chaekly_project <br>
+김희주 ➜ https://github.com/huizoo/chaekly-ai-book-community
 
 ---
 
