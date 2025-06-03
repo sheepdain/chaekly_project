@@ -1,0 +1,22 @@
+/* style.css */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap');
+
+:root {
+  --pastel-sand:  #FFF8E1;
+  --pastel-sky:   #E3F2FD;
+  --pastel-mint:  #E8F5E9;
+  --text-dark:    #333333;
+}
+
+/* 로그인 페이지 전체 배경 */
+/* .login-page {
+  height: 100vh;
+  background: linear-gradient(
+    135deg,
+    var(--pastel-sand) 0%,
+    var(--pastel-sky) 50%,
+    var(--pastel-mint) 100%
+  ) !important; 
+} */
+
+/* 기타 공통 스타일… */

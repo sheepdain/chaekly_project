@@ -1,0 +1,191 @@
+[
+{
+  "model": "books.customcategory",
+  "pk": 1,
+  "fields": {
+    "name": "인문학"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 2,
+  "fields": {
+    "name": "에세이"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 3,
+  "fields": {
+    "name": "만화"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 4,
+  "fields": {
+    "name": "소설/시/희곡"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 5,
+  "fields": {
+    "name": "어린이"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 6,
+  "fields": {
+    "name": "사회과학"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 7,
+  "fields": {
+    "name": "자기계발"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 8,
+  "fields": {
+    "name": "경제경영"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 9,
+  "fields": {
+    "name": "역사"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 10,
+  "fields": {
+    "name": "예술/대중문화"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 11,
+  "fields": {
+    "name": "수험서/자격증"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 12,
+  "fields": {
+    "name": "외국어"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 13,
+  "fields": {
+    "name": "좋은부모"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 14,
+  "fields": {
+    "name": "건강/취미"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 15,
+  "fields": {
+    "name": "과학"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 16,
+  "fields": {
+    "name": "유아"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 17,
+  "fields": {
+    "name": "청소년"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 18,
+  "fields": {
+    "name": "컴퓨터/모바일"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 19,
+  "fields": {
+    "name": "종교/역학"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 20,
+  "fields": {
+    "name": "고전"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 21,
+  "fields": {
+    "name": "대학교재"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 22,
+  "fields": {
+    "name": "고등학교참고서"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 23,
+  "fields": {
+    "name": "중학교참고서"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 24,
+  "fields": {
+    "name": "요리/살림"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 25,
+  "fields": {
+    "name": "초등학교참고서"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 26,
+  "fields": {
+    "name": "잡지"
+  }
+},
+{
+  "model": "books.customcategory",
+  "pk": 27,
+  "fields": {
+    "name": "여행"
+  }
+}
+]
